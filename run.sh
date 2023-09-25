@@ -1,0 +1,1 @@
+node ./bsrc/main.js
